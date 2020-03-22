@@ -8,6 +8,8 @@
 
 Moco is an easy setup stub framework.
 
+对于Java栈的mock工具，ThoughtWorks的前工程师郑烨编写了Moco工具
+
 ## Latest Release
 * __1.1.0__
 
